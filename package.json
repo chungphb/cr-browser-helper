@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "cr-browser-helper.helloWorld",
-        "title": "Hello World"
+        "command": "cr-browser-helper.findAllGNFiles",
+        "title": "cr-browser-helper: Find all GN files"
       }
     ]
   },
